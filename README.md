@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html><p>This line is inactive.</p> -->
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -15,7 +15,7 @@
 ">Home</a></li>
         <li><a href="#">About</a></li>
         <li><a href="#">Gallary</a></li>
-        <li><a href="#"><title>Contact</title>
+        <li><a href="#"><!-- <title>/-->Contact</title>
   <style>
     .dropdown-container {
       position: relative;
@@ -76,19 +76,19 @@
   </script>
 
 </body>
-</html>
-</li>
+<!-- /</html>
+</li>/ -->
 <li><a href="https://webmail.bhel.in/" target="_blank">Webmail</a>
 <li><a href="https://web.whatsapp.com/" target="_blank">WhatsApp</a>
 <li><a href="https://www.youtube.com/watch?v=OObyECFMHG0&list=RDNSOObyECFMHG0&start_radio=1
 " target="_blank">News</a>
-      </ul>
-    </nav>
+      <!-- /</ul>
+    </nav>/-->
     <form role="search">
       <input type="search" placeholder="Search posts…">
       <button type="submit">🔍</button>
     </form>
-  </header>
+  /</header>/
 
   <main>
     <section class="posts">
@@ -96,7 +96,7 @@
         <h2><a href="#">Honesty is the best policy</a></h2>
         <p class="lede">“Honesty is the best policy” is a timeless proverb encouraging truthfulness—even when it’s difficult. Here's a deeper look at its meaning, origin, and nuances:</p>
 
-📚 Meaning</p>
+📚 Meaning/</p>/</a>
 It teaches that truthfulness generally leads to better outcomes than deceit. Lies may offer short-term advantages, but they often result in complications, mistrust, or guilt
 </p>
         <p class="meta">Posted on June 26, 2025</p>
